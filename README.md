@@ -1,4 +1,4 @@
-# Gulp Environment for:
+# Gulp Development Environment for:
 ## LESS
 ## TypeScript
 ## WebServer
